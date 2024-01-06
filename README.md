@@ -1,2 +1,1 @@
-Rock Paper Scissors game,
-Using the If-elif-else statement in Python.
+## <div align="center">  **Rock Paper Scissors game** </div>
